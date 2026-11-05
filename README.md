@@ -80,7 +80,7 @@
 
 每章正文先给“这一带有什么”，三张内容页再各给一个场景牌：
 
-- 黑龙江：大兴安岭 · 白桦林、松花江 · 林区铁路、雪乡 · 第一场雪
+- 黑龙江：大兴安岭 · 白桦林、大兴安岭 · 林海河湾、雪乡 · 第一场雪
 - 西安：西安城墙 · 银杏、老院子 · 柿子
 - 台湾：阳明山 · 芒花、落羽松 · 水边、阿里山 · 茶山雾
 
@@ -93,7 +93,7 @@ index.html                 演示入口
 css/style.css              版式、转场、猜顺序/问答、控件、响应式
 js/app.js                  渲染与交互引擎（原生 JS）
 js/content.js              20 页文案、图片映射、授权
-assets/images/             13 张最终图片（webp + jpg 回退）
+assets/images/             12 张正在使用的图片（webp + jpg 回退）
 assets/images/credits.json 图片授权原始记录
 type/                      Cormorant Garamond / Manrope / Noto Serif SC 子集
 preview/                   预览图
