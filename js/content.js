@@ -89,7 +89,7 @@
       "黑龙江"
     ],
     "title": "秋是短暂的",
-    "body": "大兴安岭的秋天，从白桦林开始，到第一场雪结束。九月最后一周是黄金期；林区铁路一天一班；雪乡的初雪，通常在十月中。",
+    "body": "从大兴安岭的金色林海到小兴安岭的五花山色，秋天把河湾、白桦与山岭染成不同层次。沿着林间步道登高望远，满眼都是连绵的彩色森林。",
     "imageKey": "heilongjiang-late-autumn",
     "alt": "大兴安岭的落叶松林，在最后一层光里变成金色。"
   },
@@ -111,12 +111,12 @@
     "id": "heilongjiang-time",
     "type": "split",
     "chapter": "黑龙江",
-    "title": "林区的时间",
-    "body": "林区的小火车一天一班，开得比走路还慢，窗户可以推开。河面早上结一层薄冰，中午又化了。司机在桥上停一会儿，让一群牛先过。",
-    "imageKey": "heilongjiang-railway",
-    "alt": "一列火车驶过松花江上的铁桥，江面很宽。",
+    "title": "山河铺满秋色",
+    "body": "在大兴安岭，河流从连绵的林海间蜿蜒而过。登上高处，金黄的落叶松与深绿的针叶林一路铺向远山，河湾像一条银色丝带。比起匆匆路过，更值得沿观景步道停下来，把这一整片秋色看进眼里。",
+    "imageKey": "heilongjiang-chapter",
+    "alt": "大兴安岭的森林河湾，秋日山林与河流交织。",
     "scene": {
-      "place": "松花江 · 林区铁路"
+      "place": "大兴安岭 · 林海河湾"
     }
   },
   {
@@ -324,11 +324,11 @@
         "flight": "秋航 01",
         "gate": "03",
         "seat": "窗边",
-        "body": "从哈尔滨往北，先看白桦，再坐一趟慢火车，最后去雪乡等第一场雪。",
+        "body": "从哈尔滨向北，走进大兴安岭的金色林海，登高眺望蜿蜒河湾，再去小兴安岭欣赏五花山色。把脚步留给山林与秋风。",
         "days": [
           "DAY 1 哈尔滨",
-          "DAY 2 林区铁路",
-          "DAY 3 雪乡"
+          "DAY 2 大兴安岭河湾",
+          "DAY 3 小兴安岭彩林"
         ],
         "imageKey": "heilongjiang-chapter",
         "alt": "大兴安岭的林海与河湾，落日把落叶松照成金色。",
@@ -393,8 +393,8 @@
         "place": "台湾"
       }
     ],
-    "imageKey": "heilongjiang-railway",
-    "alt": "一列火车驶过松花江上的铁桥，江面很宽。"
+    "imageKey": "heilongjiang-late-autumn",
+    "alt": "大兴安岭深秋的金色林海，山林在夕阳下延伸。"
   }
 ];
   const images = {
@@ -432,11 +432,6 @@
     "src": "assets/images/heilongjiang-chapter.webp",
     "fallback": "assets/images/heilongjiang-chapter.jpg",
     "lqip": "data:image/webp;base64,UklGRooAAABXRUJQVlA4IH4AAAAQBACdASogABIAPvVkqU4qpSOiMAgBUB6JQBfNHMg/TSGgzSWvpM+WoADw2w9vBz7DcTg7lHiSlJodODV7wgIEsT8wwZ08mvb2eH/oqa5Z+1PedK8exYl1HWLxCr+eRjyX2o2fsJN1R7ygahKZVa7wKwhwENUpXCzVvOgAAAA="
-  },
-  "heilongjiang-railway": {
-    "src": "assets/images/heilongjiang-railway.webp",
-    "fallback": "assets/images/heilongjiang-railway.jpg",
-    "lqip": "data:image/webp;base64,UklGRtAAAABXRUJQVlA4IMQAAAAQBQCdASoaACAAPvVwsFMqpiSiqAgBUB6JQBOgCtoQL7/XjLZzg2snEDE3swmDonwwAP7zeQY+7aOuQq5BMvBZy2Y+J99VpGdlvzr5iarCNBG0ch8Al5hzFL88zYTTKCBw1iyo/Ik6AcwnQrRrNSUiNM4nKHqcOrp75wspXyXMXGDzM5g5hEdZx3GIc3MflcYsaWDhRmUkEOQKTaZIqXA4Y4q46zyvbsiY08OFvmg7QPezaXWOTO5KoC0vn1B1AYwE2AAA"
   },
   "heilongjiang-late-autumn": {
     "src": "assets/images/heilongjiang-late-autumn.webp",
@@ -604,26 +599,6 @@
     ],
     "file_webp_bytes": 514550,
     "file_jpg_bytes": 686136
-  },
-  {
-    "id": "heilongjiang-railway",
-    "title": "HXD3D-1886 hauls Z158 on Dehui Songhua River Bridge 20251011.jpg",
-    "artist": "高坂千一久",
-    "license": "CC BY 4.0",
-    "license_url": "",
-    "source_url": "https://commons.wikimedia.org/wiki/File:HXD3D-1886_hauls_Z158_on_Dehui_Songhua_River_Bridge_20251011.jpg",
-    "credit_line": "摄影：高坂千一久 / CC BY 4.0 / Wikimedia Commons",
-    "width": 1600,
-    "height": 2000,
-    "source_resolution": "1920x1080",
-    "crop_box_px": [
-      528,
-      0,
-      1392,
-      1080
-    ],
-    "file_webp_bytes": 637846,
-    "file_jpg_bytes": 785745
   },
   {
     "id": "heilongjiang-late-autumn",
